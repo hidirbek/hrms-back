@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "abc",
+    "description": "abcde",
+    "start": "2024-08-17",
+    "end": "2024-08-18",
+    "new": true,
+    "allDay": true
+  },
+  {
+    "id": 2,
+    "name": "Welcome to HRMS",
+    "description": "HRMS GROUP2",
+    "start": "2024-08-12",
+    "end": "2024-08-12",
+    "new": true,
+    "allDay": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4",
+    "fullname": "Khidirbek Oktyabrov",
+    "tel": "+998976028815",
+    "d_birth": "28.06.2003",
+    "gender": "Male",
+    "nation": "Uzbek",
+    "marriage": "Not married",
+    "work_tel": "+998976028815",
+    "address": "Ziyokor, 27",
+    "city": "Khorezm",
+    "country": "Uzbekistan",
+    "job_title": "Employee",
+    "email": "Khidirbek049@gmail.com",
+    "department": "NBD",
+    "emp_status": "Full time",
+    "division": "SW Development"
+  }
+]
