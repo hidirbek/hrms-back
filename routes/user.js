@@ -120,10 +120,12 @@ router.post(
 
 // Обновление пользователя (доступно только для admin и HR)
 router.put(
-  "update_user/:id",
+  "/edit/:id",
   authMiddleware,
   roleMiddleware("admin", "HR"),
   (req, res) => {
+    console.log(req.body);
+
     const {
       fullname,
       tel,
