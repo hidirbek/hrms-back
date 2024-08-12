@@ -5,6 +5,7 @@ const { readJSONFile, writeJSONFile } = require("../utils/fileUtils");
 const authMiddleware = require("../middleware/authMiddleware");
 const roleMiddleware = require("../middleware/roleMiddleware");
 const router = express.Router();
+const { v4: uuidv4 } = require("uuid");
 
 const eventsFilePath = path.join(__dirname, "../data/events.json");
 
@@ -22,20 +23,23 @@ router.post(
   authMiddleware,
   roleMiddleware("admin", "HR"),
   (req, res) => {
-    const { ann_name, ann_desc, enn_startDate, ann_endDate } = req.body;
+    const { name, description, start, end } = req.body;
     // console.log(req.body);
 
     try {
       const events = readJSONFile(eventsFilePath);
-      const newEvent = {
+      const new_event = {
         id: uuidv4(),
-        ann_name,
-        ann_desc,
-        enn_startDate,
-        ann_endDate,
+        name,
+        description,
+        start,
+        end,
+        allDay: true,
         new: true,
       };
-      events.push(newEvent);
+
+      console.log(new_event, "event");
+      events.push(new_event);
       writeJSONFile(eventsFilePath, events);
       res.status(201).json({ message: "Event created" });
     } catch (err) {
