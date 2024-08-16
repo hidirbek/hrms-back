@@ -4,15 +4,15 @@
     "tr_title": "Training editedasd",
     "department": "New Business dep",
     "division": "SW Development",
-    "floor": "8",
+    "floor": "9",
     "time": "2024-08-16T08:30:00.000Z"
   },
   {
-    "id": "6a8b3b95-e1b9-4cad-a73c-f75fa1fdb396d",
-    "tr_title": "Training edited",
-    "department": "New Business dep",
-    "division": "SW Development",
+    "id": "e7e6d799-a8de-4065-ae6e-95ad25ed364b",
+    "tr_title": "Test",
+    "department": "NBD",
+    "division": "SW",
     "floor": "8",
-    "time": "2024-08-16T06:57:06.000Z"
+    "time": "2024-08-09T11:00:00.000Z"
   }
 ]

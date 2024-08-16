@@ -2,6 +2,11 @@ const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
 
+const path = require("path");
+const { readJSONFile, writeJSONFile } = require("./utils/fileUtils");
+const nodemailer = require("nodemailer");
+const usersFilePath = path.join(__dirname, "./data/users.json");
+
 dotenv.config();
 
 const app = express();
@@ -15,6 +20,7 @@ app.use("/v1/company", require("./routes/companyStructure"));
 app.use("/v1/trainings", require("./routes/training"));
 app.use("/v1/employees", require("./routes/employee"));
 app.use("/v1/events", require("./routes/events"));
+app.use("/v1", require("./routes/notifications"));
 
 app.get("/", (req, res) => {
   res.send("Backend is running");

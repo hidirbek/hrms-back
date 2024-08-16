@@ -19,6 +19,7 @@ router.get("/get_all", authMiddleware, (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
+
 router.get("/search", authMiddleware, (req, res) => {
   const { fullname } = req.headers;
   // console.log(fullname);
@@ -110,7 +111,7 @@ router.put(
       division,
     } = req.body;
     // console.log(req.params.id);
-    console.log(req.body);
+    // console.log(req.body);
 
     try {
       const employees = readJSONFile(employeesFilePath);

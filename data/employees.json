@@ -3,7 +3,7 @@
     "id": "4",
     "fullname": "Khidirbek Oktyabrov",
     "tel": "+998976028815",
-    "d_birth": "28.06.2003",
+    "d_birth": "1989-08-16",
     "gender": "Male",
     "nation": "Uzbek",
     "marriage": "Not married",
@@ -21,7 +21,7 @@
     "id": "f6bf38d7-43de-4de7-aba1-be862893d831",
     "fullname": "Minseok Son",
     "tel": "+998901234567",
-    "d_birth": "1989-06-23",
+    "d_birth": "1989-08-15",
     "gender": "male",
     "nation": "Korean",
     "marriage": "Married",
@@ -36,10 +36,10 @@
     "division": "NBD"
   },
   {
-    "id": "1f7596fe-043f-4498-a6c3-c99fd7ebf651",
-    "fullname": "Jamoliddinov Bobur",
-    "tel": "8909708586",
-    "d_birth": "2024-08-09",
+    "id": "a4991c53-e5db-49d8-ac59-9c8d628fa045",
+    "fullname": "Akrom Nasirov",
+    "tel": "+9901234567",
+    "d_birth": "2024-08-08",
     "gender": "M",
     "nation": "UZ",
     "marriage": "NO",
@@ -47,10 +47,10 @@
     "address": "Sergeli",
     "city": "Tashkent",
     "country": "Узбекистан",
-    "email": "boburjmb@gmail.com",
+    "email": "akrom@gmail.com",
     "job_title": "no",
-    "department": "no",
+    "department": "NBD",
     "emp_status": "yes",
-    "division": "no"
+    "division": "SW Development"
   }
 ]

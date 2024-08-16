@@ -3,416 +3,411 @@
     "ceo": "Kim Sungmin",
     "departments": [
       {
-        "dep_title": "Corp. Strategy Department",
-        "dep_head": "(CFO) Lim Won Suk",
+        "title": "Corp. Strategy Department",
+        "head": "(CFO) Lim Won Suk",
         "divisions": [
           {
-            "div_title": "Corp. Strategy Division",
-            "div_head": "Yuldasheva Aziza",
+            "title": "Corp. Strategy Division",
+            "head": "Yuldasheva Aziza",
             "team": [
               {
-                "team_title": "Finance Team",
-                "team_head": "(TL) Mamatov Khumoyun"
+                "title": "Finance Team",
+                "head": "(TL) Mamatov Khumoyun"
               }
             ]
           },
           {
-            "div_title": "Accounting Div",
-            "div_head": "Berkinov Alisher",
+            "title": "Accounting Div",
+            "head": "Berkinov Alisher",
             "team": []
           },
           {
-            "div_title": "HR Div",
-            "div_head": "(A) Dosmetova Lola",
+            "title": "HR Div",
+            "head": "(A) Dosmetova Lola",
             "team": [
               {
-                "team_title": "HR Administration Team",
-                "team_head": "(TL) Vacant"
+                "title": "HR Administration Team",
+                "head": "(TL) Vacant"
               }
             ]
           },
           {
-            "div_title": "SCM Div",
-            "div_head": "Siddikov Zhavokhir",
+            "title": "SCM Div",
+            "head": "Siddikov Zhavokhir",
             "team": [
               {
-                "team_title": "Warehouse Team",
-                "team_head": "(TL) Abdurazakov Dilshod"
+                "title": "Warehouse Team",
+                "head": "(TL) Abdurazakov Dilshod"
               }
             ]
           },
           {
-            "div_title": "General Affair Div",
-            "div_head": "Ubaydullaev Zhavlonbe",
+            "title": "General Affair Div",
+            "head": "Ubaydullaev Zhavlonbe",
             "team": [
               {
-                "team_title": "Vehicle Management Team",
-                "team_head": "(TL) Ibragimov Dilshod"
+                "title": "Vehicle Management Team",
+                "head": "(TL) Ibragimov Dilshod"
               }
             ]
           }
         ]
       },
       {
-        "dep_title": "Legal Department",
-        "dep_head": "(Chief) Yigitalieva Durdona, (Man. by) Lim Won Suk",
+        "title": "Legal Department",
+        "head": "(Chief) Yigitalieva Durdona, (Man. by) Lim Won Suk",
         "divisions": [
           {
-            "div_title": "Legal Div",
-            "div_head": "Abdukaxarov Ulugbek",
+            "title": "Legal Div",
+            "head": "Abdukaxarov Ulugbek",
             "team": []
           },
           {
-            "div_title": "Compliance Div",
-            "div_head": "C. Muradzhon",
-            "team": []
-          }
-        ]
-      },
-      {
-        "dep_title": "Commercial Department",
-        "dep_head": "(CCO) Nazarova Kurbangul",
-        "divisions": [
-          {
-            "div_title": "Tashkent Sales Div",
-            "div_head": "Narkhodzhaev Saidrasul",
-            "team": [
-              {
-                "team_title": "Group of digital flows’s rent team ",
-                "team_head": "(TL) Yuldashev Narimon"
-              }
-            ]
-          },
-          {
-            "div_title": "Region Sales Div",
-            "div_head": "Khalikov Aziz",
-            "team": [
-              {
-                "team_title": "Region analysis and reporting Team",
-                "team_head": "(TL) Mirakhmedov Sardor"
-              },
-              {
-                "team_title": "Region administration Team",
-                "team_head": "(TL) Fazilova Hamida"
-              }
-            ]
-          },
-          {
-            "div_title": "Cust. Care Div",
-            "div_head": "Kapitonova Irina",
-            "team": [
-              {
-                "team_title": "Corporate Customer Service Team",
-                "team_head": "(TL) Husainova Yekaterina"
-              },
-              {
-                "team_title": "B2B Tashkent customer service Team",
-                "team_head": "(TL) Abdrashitova Liliya"
-              },
-              {
-                "team_title": "B2C Customer Service Team",
-                "team_head": "(TL) Shomansurov Abduazim"
-              }
-            ]
-          },
-          {
-            "div_title": "B2B Cust. Support Div",
-            "div_head": "Kobilov Jasur",
+            "title": "Compliance Div",
+            "head": "C. Muradzhon",
             "team": []
           }
         ]
       },
       {
-        "dep_title": "Technical Department",
-        "dep_head": "(CTO) Tuychiev Khusniddin, (Sup. By) Yu Jong Sung",
+        "title": "Commercial Department",
+        "head": "(CCO) Nazarova Kurbangul",
         "divisions": [
           {
-            "div_title": "N/W Construction Div",
-            "div_head": "Almatov Naimbek",
+            "title": "Tashkent Sales Div",
+            "head": "Narkhodzhaev Saidrasul",
             "team": [
               {
-                "team_title": "Projects management team",
-                "team_head": "(TL) Toirjanov Sardor"
-              },
-              {
-                "team_title": "Installation Team",
-                "team_head": "(TL) Magdiev Avaz"
+                "title": "Group of digital flows’s rent team ",
+                "head": "(TL) Yuldashev Narimon"
               }
             ]
           },
           {
-            "div_title": "N/W Mgmt. Div",
-            "div_head": "Saibnazarov Sanjar",
+            "title": "Region Sales Div",
+            "head": "Khalikov Aziz",
             "team": [
               {
-                "team_title": "DWDM/SDH Administration Team",
-                "team_head": "(TL) Ablakulov Muzaffar"
+                "title": "Region analysis and reporting Team",
+                "head": "(TL) Mirakhmedov Sardor"
               },
               {
-                "team_title": "Internet Administration Team",
-                "team_head": "(TL) Kolosov Maksim"
-              },
-              {
-                "team_title": "NGN Administration Team",
-                "team_head": "(TL) Nikitin Alexsandr"
-              },
-              {
-                "team_title": "DC&BB Administration Team",
-                "team_head": "(TL) Tuychiev Fazliddin"
-              },
-              {
-                "team_title": "Electricity Team",
-                "team_head": "(TL) Nizamov Dilshot"
+                "title": "Region administration Team",
+                "head": "(TL) Fazilova Hamida"
               }
             ]
           },
           {
-            "div_title": "N/W OP Tashkent Div",
-            "div_head": "Nabiev Sherzod",
+            "title": "Cust. Care Div",
+            "head": "Kapitonova Irina",
             "team": [
               {
-                "team_title": "Station Facilities Maintenance Team",
-                "team_head": "(TL) Halilov Abdubosit"
+                "title": "Corporate Customer Service Team",
+                "head": "(TL) Husainova Yekaterina"
               },
               {
-                "team_title": "Customer Support Team",
-                "team_head": "(TL) Niyazov Shavkat"
+                "title": "B2B Tashkent customer service Team",
+                "head": "(TL) Abdrashitova Liliya"
               },
               {
-                "team_title": "Customer Support group Team",
-                "team_head": "(A-TL) Begmanov Hurshid"
-              },
-              {
-                "team_title": "VIP technical support Team",
-                "team_head": "(TL) Maksudov Farruh"
-              },
-              {
-                "team_title": "LCS Maintenance Team",
-                "team_head": "(TL) Gulyamov Javlon"
-              },
-              {
-                "team_title": "FOCL Maintenance Team",
-                "team_head": "(TL) Ilxamov Dilmurod"
+                "title": "B2C Customer Service Team",
+                "head": "(TL) Shomansurov Abduazim"
               }
             ]
           },
           {
-            "div_title": "N/W OP Region Div",
-            "div_head": "Baymuxamedov Akbar",
+            "title": "B2B Cust. Support Div",
+            "head": "Kobilov Jasur",
+            "team": []
+          }
+        ]
+      },
+      {
+        "title": "Technical Department",
+        "head": "(CTO) Tuychiev Khusniddin, (Sup. By) Yu Jong Sung",
+        "divisions": [
+          {
+            "title": "N/W Construction Div",
+            "head": "Almatov Naimbek",
             "team": [
               {
-                "team_title": "Samarkand Operation Team",
-                "team_head": "(TL)  Soliyev  Husen"
+                "title": "Projects management team",
+                "head": "(TL) Toirjanov Sardor"
               },
               {
-                "team_title": "Navoiy Operation Team",
-                "team_head": "(TL) Kuldoshov Samandar"
-              },
-              {
-                "team_title": "Andijan Operation Team",
-                "team_head": "(TL)- Vacant"
-              },
-              {
-                "team_title": "Khorezm Operation Team",
-                "team_head": "(TL) An Stanislav"
-              },
-              {
-                "team_title": "Bukhara Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Kashkadarya Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Surkhandarya Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Sirdarya Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Djizak Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Fergana Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Namangan Operation Team",
-                "team_head": ""
-              },
-              {
-                "team_title": "Karakalpakstan Rep. Operation Team",
-                "team_head": ""
+                "title": "Installation Team",
+                "head": "(TL) Magdiev Avaz"
               }
             ]
           },
           {
-            "div_title": "Wireless N/W OP Div",
-            "div_head": "Akhtamov Djasur",
+            "title": "N/W Mgmt. Div",
+            "head": "Saibnazarov Sanjar",
             "team": [
               {
-                "team_title": "Wireless Customer Support Team",
-                "team_head": ""
+                "title": "DWDM/SDH Administration Team",
+                "head": "(TL) Ablakulov Muzaffar"
               },
               {
-                "team_title": "Wireless Station Operations Team",
-                "team_head": "(TL) Ibragimov Sardor"
+                "title": "Internet Administration Team",
+                "head": "(TL) Kolosov Maksim"
+              },
+              {
+                "title": "NGN Administration Team",
+                "head": "(TL) Nikitin Alexsandr"
+              },
+              {
+                "title": "DC&BB Administration Team",
+                "head": "(TL) Tuychiev Fazliddin"
+              },
+              {
+                "title": "Electricity Team",
+                "head": "(TL) Nizamov Dilshot"
               }
             ]
           },
           {
-            "div_title": "N/W Planning Div",
-            "div_head": "K. Khudaiberdi",
+            "title": "N/W OP Tashkent Div",
+            "head": "Nabiev Sherzod",
             "team": [
               {
-                "team_title": "Quality Control Team",
-                "team_head": "(TL) Urakov Ramiz"
+                "title": "Station Facilities Maintenance Team",
+                "head": "(TL) Halilov Abdubosit"
               },
               {
-                "team_title": "Lease Agreement Team",
-                "team_head": "(TL) Odilov Ulugbek"
+                "title": "Customer Support Team",
+                "head": "(TL) Niyazov Shavkat"
               },
               {
-                "team_title": "Technical Accounting Team",
-                "team_head": "(TL) Mirzaxmedov Asqar"
+                "title": "Customer Support group Team",
+                "head": "(A-TL) Begmanov Hurshid"
               },
               {
-                "team_title": "Connection Survey Team",
-                "team_head": "(TL) Raxmonberdiev Akmal"
+                "title": "VIP technical support Team",
+                "head": "(TL) Maksudov Farruh"
+              },
+              {
+                "title": "LCS Maintenance Team",
+                "head": "(TL) Gulyamov Javlon"
+              },
+              {
+                "title": "FOCL Maintenance Team",
+                "head": "(TL) Ilxamov Dilmurod"
               }
             ]
           },
           {
-            "div_title": "Highway N/W Div",
-            "div_head": "Fetlyaev Ruslan",
+            "title": "N/W OP Region Div",
+            "head": "Baymuxamedov Akbar",
             "team": [
               {
-                "team_title": "Tashkent Highway N/WTeam",
-                "team_head": "(TL) Kasimov Husniddin"
+                "title": "Samarkand Operation Team",
+                "head": "(TL)  Soliyev  Husen"
               },
               {
-                "team_title": "Kashkadarya Highway N/WTeam",
-                "team_head": "(TL) Mirzaev Panji"
+                "title": "Navoiy Operation Team",
+                "head": "(TL) Kuldoshov Samandar"
               },
               {
-                "team_title": "Navoi Highway N/W Team",
-                "team_head": "(TL) Olimov Ilyos"
+                "title": "Andijan Operation Team",
+                "head": "(TL)- Vacant"
               },
               {
-                "team_title": "Namangan Highway N/W Team",
-                "team_head": "(TL) Raximov Abduhalim"
+                "title": "Khorezm Operation Team",
+                "head": "(TL) An Stanislav"
               },
               {
-                "team_title": "Djizak Highway N/W Team",
-                "team_head": "(TL) Norkuziev Sherquzi"
+                "title": "Bukhara Operation Team",
+                "head": ""
               },
               {
-                "team_title": "Khorezm Highway N/W Team",
-                "team_head": "(TL) Abduraxmanov Alisher"
+                "title": "Kashkadarya Operation Team",
+                "head": ""
+              },
+              {
+                "title": "Surkhandarya Operation Team",
+                "head": ""
+              },
+              {
+                "title": "Sirdarya Operation Team",
+                "head": ""
+              },
+              {
+                "title": "Djizak Operation Team",
+                "head": ""
+              },
+              {
+                "title": "Fergana Operation Team",
+                "head": ""
+              },
+              {
+                "title": "Namangan Operation Team",
+                "head": ""
+              },
+              {
+                "title": "Karakalpakstan Rep. Operation Team",
+                "head": ""
+              }
+            ]
+          },
+          {
+            "title": "Wireless N/W OP Div",
+            "head": "Akhtamov Djasur",
+            "team": [
+              {
+                "title": "Wireless Customer Support Team",
+                "head": ""
+              },
+              {
+                "title": "Wireless Station Operations Team",
+                "head": "(TL) Ibragimov Sardor"
+              }
+            ]
+          },
+          {
+            "title": "N/W Planning Div",
+            "head": "K. Khudaiberdi",
+            "team": [
+              {
+                "title": "Quality Control Team",
+                "head": "(TL) Urakov Ramiz"
+              },
+              {
+                "title": "Lease Agreement Team",
+                "head": "(TL) Odilov Ulugbek"
+              },
+              {
+                "title": "Technical Accounting Team",
+                "head": "(TL) Mirzaxmedov Asqar"
+              },
+              {
+                "title": "Connection Survey Team",
+                "head": "(TL) Raxmonberdiev Akmal"
+              }
+            ]
+          },
+          {
+            "title": "Highway N/W Div",
+            "head": "Fetlyaev Ruslan",
+            "team": [
+              {
+                "title": "Tashkent Highway N/WTeam",
+                "head": "(TL) Kasimov Husniddin"
+              },
+              {
+                "title": "Kashkadarya Highway N/WTeam",
+                "head": "(TL) Mirzaev Panji"
+              },
+              {
+                "title": "Navoi Highway N/W Team",
+                "head": "(TL) Olimov Ilyos"
+              },
+              {
+                "title": "Namangan Highway N/W Team",
+                "head": "(TL) Raximov Abduhalim"
+              },
+              {
+                "title": "Djizak Highway N/W Team",
+                "head": "(TL) Norkuziev Sherquzi"
+              },
+              {
+                "title": "Khorezm Highway N/W Team",
+                "head": "(TL) Abduraxmanov Alisher"
               }
             ]
           }
         ]
       },
       {
-        "dep_title": "Marketing Department",
-        "dep_head": "(CMO) Park Mina",
+        "title": "Marketing Department",
+        "head": "(CMO) Park Mina",
         "divisions": [
           {
-            "div_title": "Marketing Divison",
-            "div_head": "Bayburin Rinat",
+            "title": "Marketing Divison",
+            "head": "Bayburin Rinat",
             "team": [
               {
-                "team_title": "Product Marketing Team",
-                "team_head": "(TL)Abdusamiyev Javoxir"
+                "title": "Product Marketing Team",
+                "head": "(TL)Abdusamiyev Javoxir"
               },
               {
-                "team_title": "Communication Team",
-                "team_head": "(TL)Kamilov Rustam"
+                "title": "Communication Team",
+                "head": "(TL)Kamilov Rustam"
               },
               {
-                "team_title": "Service Innovation Team",
-                "team_head": "(TL)Vorox Sergey"
+                "title": "Service Innovation Team",
+                "head": "(TL)Vorox Sergey"
               }
             ]
           },
           {
-            "div_title": "CX Division",
-            "div_head": "Khozhimatova Sevara",
+            "title": "CX Division",
+            "head": "Khozhimatova Sevara",
             "team": [
               {
-                "team_title": "Call Center Team",
-                "team_head": "(TL)Sveshnikova Irina"
+                "title": "Call Center Team",
+                "head": "(TL)Sveshnikova Irina"
               },
               {
-                "team_title": "CX Support Team",
-                "team_head": "(TL)Axmadullayev Elyor"
+                "title": "CX Support Team",
+                "head": "(TL)Axmadullayev Elyor"
               }
             ]
           },
           {
-            "div_title": "Office Mgmt. TF",
-            "div_head": "Kim Alexander",
-            "team": [
-              {
-                "team_title": "",
-                "team_head": ""
-              }
-            ]
+            "title": "Office Mgmt. TF",
+            "head": "Kim Alexander",
+            "team": []
           }
         ]
       },
       {
-        "dep_title": "Data Center Department",
-        "dep_head": "(Chief) Yu Jong Sung, (Sup. By) A. Farrukh",
+        "title": "Data Center Department",
+        "head": "(Chief) Yu Jong Sung, (Sup. By) A. Farrukh",
         "divisions": [
           {
-            "div_title": "DC Construction Divison",
-            "div_head": "Kang Jun Won",
+            "title": "DC Construction Divison",
+            "head": "Kang Jun Won",
             "team": [
               {
-                "team_title": "DC Design & Consulting Team",
-                "team_head": "(TL) Vacant"
+                "title": "DC Design & Consulting Team",
+                "head": "(TL) Vacant"
               },
               {
-                "team_title": "DC implementation Team(Construction)",
-                "team_head": "(TL) Nosirxonov Nozimjon"
+                "title": "DC implementation Team(Construction)",
+                "head": "(TL) Nosirxonov Nozimjon"
               }
             ]
           },
           {
-            "div_title": "DC Operation Divison",
-            "div_head": "Nam Alexey",
+            "title": "DC Operation Divison",
+            "head": "Nam Alexey",
             "team": [
               {
-                "team_title": "DC Facility Team",
-                "team_head": "(TL) Vacant"
+                "title": "DC Facility Team",
+                "head": "(TL) Vacant"
               },
               {
-                "team_title": "DC Network Team",
-                "team_head": "(TL) Kim ALexey"
+                "title": "DC Network Team",
+                "head": "(TL) Kim ALexey"
               },
               {
-                "team_title": "Monitoring Team",
-                "team_head": "(TL) Vacant"
+                "title": "Monitoring Team",
+                "head": "(TL) Vacant"
               }
             ]
           },
           {
-            "div_title": "DC Support Div",
-            "div_head": "Jang Gwanghun",
+            "title": "DC Support Div",
+            "head": "Jang Gwanghun",
             "team": [
               {
-                "team_title": "Planning and Marketing Team",
-                "team_head": "(TL) Vacant"
+                "title": "Planning and Marketing Team",
+                "head": "(TL) Vacant"
               },
               {
-                "team_title": "Customer Migration Support Team",
-                "team_head": "(TL) Vacant"
+                "title": "Customer Migration Support Team",
+                "head": "(TL) Vacant"
               }
             ]
           }
@@ -421,100 +416,100 @@
     ],
     "coe": [
       {
-        "coe_head": "(Chief) Son Minseok",
-        "coe_title": "Center of Excellence",
-        "coe_dep": [
+        "head": "(Chief) Son Minseok",
+        "title": "Center of Excellence",
+        "dep": [
           {
-            "dep_title": "New Biz Department",
-            "dep_head": "(Chief) A. Farrukh",
+            "title": "New Biz Department",
+            "head": "(Chief) A. Farrukh",
             "divisions": [
               {
-                "div_title": "GTM Division",
-                "div_head": "Kogay Elena",
+                "title": "GTM Division",
+                "head": "Kogay Elena",
                 "team": [
                   {
-                    "team_title": "GTM 1 Team",
-                    "team_head": "(TL) Vacant"
+                    "title": "GTM 1 Team",
+                    "head": "(TL) Vacant"
                   },
                   {
-                    "team_title": "GTM 2 Team",
-                    "team_head": "(TL) Pulatov Bobur"
+                    "title": "GTM 2 Team",
+                    "head": "(TL) Pulatov Bobur"
                   }
                 ]
               },
               {
-                "div_title": "IT Biz Division",
-                "div_head": "Vacant",
+                "title": "IT Biz Division",
+                "head": "Vacant",
                 "team": [
                   {
-                    "team_title": "Planning Team",
-                    "team_head": "(TL) Vacant"
+                    "title": "Planning Team",
+                    "head": "(TL) Vacant"
                   },
                   {
-                    "team_title": "Product Managenent Team",
-                    "team_head": "(TL) Vacant"
+                    "title": "Product Managenent Team",
+                    "head": "(TL) Vacant"
                   },
                   {
-                    "team_title": "B2B Solution Team",
-                    "team_head": "(TL) Baratov Ibrahim"
+                    "title": "B2B Solution Team",
+                    "head": "(TL) Baratov Ibrahim"
                   }
                 ]
               },
               {
-                "div_title": "SW Development Div",
-                "div_head": "Vacant",
+                "title": "SW Development Div",
+                "head": "Vacant",
                 "team": [
                   {
-                    "team_title": "SW Development 1 Team",
-                    "team_head": "(TL) Abdujalilov Doniyor"
+                    "title": "SW Development 1 Team",
+                    "head": "(TL) Abdujalilov Doniyor"
                   },
                   {
-                    "team_title": "SW Development 2 Team",
-                    "team_head": "(TL) Vacant"
+                    "title": "SW Development 2 Team",
+                    "head": "(TL) Vacant"
                   }
                 ]
               }
             ]
           },
           {
-            "dep_title": "IT Department",
-            "dep_head": "(CIO) Kim Andrey",
+            "title": "IT Department",
+            "head": "(CIO) Kim Andrey",
             "divisions": [
               {
-                "div_title": "Billing Division",
-                "div_head": "Kirgizbaeva Kamola",
+                "title": "Billing Division",
+                "head": "Kirgizbaeva Kamola",
                 "team": [
                   {
-                    "team_title": "New BSS Integration Team",
-                    "team_head": "(TL) Makov Stanislav"
+                    "title": "New BSS Integration Team",
+                    "head": "(TL) Makov Stanislav"
                   }
                 ]
               },
               {
-                "div_title": "Internal DX Div",
-                "div_head": "Mirjalilov Bakhodir",
+                "title": "Internal DX Div",
+                "head": "Mirjalilov Bakhodir",
                 "team": [
                   {
-                    "team_title": "",
-                    "team_head": ""
+                    "title": "",
+                    "head": ""
                   }
                 ]
               },
               {
-                "div_title": "IT Division",
-                "div_head": "Abduraxmanov Ravshan",
+                "title": "IT Division",
+                "head": "Abduraxmanov Ravshan",
                 "team": [
                   {
-                    "team_title": "Server Support Team",
-                    "team_head": "(TL) Valeev Timur"
+                    "title": "Server Support Team",
+                    "head": "(TL) Valeev Timur"
                   },
                   {
-                    "team_title": "Own N/W Support Team",
-                    "team_head": "(TL) Djumamuratov Janibek "
+                    "title": "Own N/W Support Team",
+                    "head": "(TL) Djumamuratov Janibek "
                   },
                   {
-                    "team_title": "IT Service Support Team",
-                    "team_head": "(TL) Vacant"
+                    "title": "IT Service Support Team",
+                    "head": "(TL) Vacant"
                   }
                 ]
               }
